@@ -11,7 +11,7 @@ Welcome to my Power BI portfolio! I'm passionate about transforming data into in
 
 | Project Title              | Description                                     | Link |
 |---------------------------|-------------------------------------------------|------|
-| 🛒 [Sales Analysis]        | Analyzes sales KPIs across regions and categories. | [View](./README(1).md) |
+| 🛒 [Sales Analysis]        | Analyzes sales KPIs across regions and categories. | [View](./README (1).md) |
 
 
 ---
