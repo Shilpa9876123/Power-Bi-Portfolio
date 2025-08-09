@@ -7,10 +7,10 @@ This dashboard explores sales performance across products, regions, and months. 
 
 ## 📊 Key Features
 
-- Monthly revenue and profit trends
-- Regional sales comparison
-- Top-selling product categories
-- Interactive filters by year and region
+- Monthly trends for sales, cost, profit, shipments, boxes, and profit %.
+- Sales performance by individual salesperson, including profit and margin.
+- Shipment distribution by box count with utilization gauge.
+- Interactive filters by product type and region.
 
 ## 🗂️ Dataset
 
