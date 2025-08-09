@@ -3,7 +3,7 @@
 
 ## 📁 Project Overview
 
-This dashboard explores sales performance across products, regions, and months. It highlights total sales, revenue growth, top-performing categories, and customer segmentation.
+This sales performance dashboard provides a comprehensive view of monthly trends, regional and product performance, and shipment patterns. It tracks key metrics such as sales, cost, profit, shipments, and boxes, while highlighting top-performing salespeople and profit margins. Visualizations include time-series trends, salesperson leaderboards, and shipment size distribution, enabling quick identification of strengths, weaknesses, and seasonal patterns.
 
 ## 📊 Key Features
 
