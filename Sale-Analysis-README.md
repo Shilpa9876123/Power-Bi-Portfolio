@@ -20,7 +20,7 @@ This dashboard explores sales performance across products, regions, and months. 
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard Screenshot](./Images/Sales-Analysis-dashboard.png)
+![Sales Dashboard Screenshot](Sales-Analysis-dashboard.png)
 
 ## 🧠 Key Insights
 
