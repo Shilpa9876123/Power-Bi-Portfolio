@@ -24,9 +24,10 @@ This dashboard explores sales performance across products, regions, and months. 
 
 ## 🧠 Key Insights
 
-- The western region has the highest sales.
-- Electronics outperformed all other product categories.
-- Seasonal spikes in November and December.
+- Australia has the highest percentage of Profit.
+- Chocolate bars have the highest percentage of profit.
+- Top performers like Marney Obren maintained strong margins, while Wilone O'kielt lagged.
+- Sales, cost, and profit have seasonal fluctuations, with noticeable dips around Nov 2023 and peaks in mid-year and early 2024.
 
 ## 🛠️ Tools Used
 
