@@ -38,4 +38,4 @@ This sales performance dashboard provides a comprehensive view of monthly trends
 ## 📁 Files Included
 
 - `SalesDashboard.pbix`: Power BI file
-- `/Images`: Screenshot of the dashboard
+
