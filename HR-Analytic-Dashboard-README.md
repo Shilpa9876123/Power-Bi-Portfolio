@@ -20,7 +20,7 @@ This Power BI dashboard provides a comprehensive view of HR data, helping the or
 
 ## 📸 Dashboard Preview
 
-![HR Analytics Dashboard Screenshot](HR Analytics Dashboard .png) 
+![HR Analytics Dashboard Screenshot](HR_Analytics_Dashboard.png)
 
 ## 🧠 Key Insights
 
