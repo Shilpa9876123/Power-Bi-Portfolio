@@ -12,6 +12,7 @@ Welcome to my Power BI portfolio! I'm passionate about transforming data into in
 | Project Title              | Description                                     | Link |
 |---------------------------|-------------------------------------------------|------|
 | 🛒 [Sales Analysis]        | Analyzes sales KPIs across regions and categories. | [View](./Sale-Analysis-README.md) |
+|👩‍💼 [HR Analytics Dashboard] | Interactive Power BI dashboard visualizing workforce demographics, salary insights, and KPI tracking for HR decision-making. |  [View](./Sale-Analysis-README.md) |
 
 
 ---
