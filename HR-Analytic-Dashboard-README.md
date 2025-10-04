@@ -38,5 +38,5 @@ This Power BI dashboard provides a comprehensive view of HR data, helping the or
 
 ## 📁 Files Included
 
-- `SalesDashboard.pbix`: Power BI file
-- `/Images`: Screenshot of the dashboard 
+- `HR_Data_Analytics.pbix` – Power BI desktop file containing the full HR analytics dashboard.
+
