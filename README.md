@@ -17,7 +17,7 @@ Power BI | SQL | DAX | Power Query | Data Visualization | Data Modeling | Report
 
 | # | Project | Description | Key Tools |
 |:-:|:--|:--|:--|
-| 1 | 🛒 [Sales Analysis Dashboard](Sales-Analysis/README.md) | End-to-end dashboard analyzing sales, cost, profit, and shipment data to identify trends and top performers. | Power BI, Power Query, DAX, SQL |
+| 1 | 🛒 [Sales Analysis Dashboard](Sale-Analysis-README.md) | End-to-end dashboard analyzing sales, cost, profit, and shipment data to identify trends and top performers. | Power BI, Power Query, DAX, SQL |
 | 2 | 👥 [HR Analytics Dashboard](HR-Analytics/README.md) | HR dashboard analyzing employee demographics, diversity, and salary distribution to assist HR planning. | Power BI, Power Query, DAX |
 
 ---
